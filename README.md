@@ -1,5 +1,4 @@
-## Ismoilov Farrukh
-
+<p style="color:red;"> ## Ismoilov Farrukh
 <p style="color:red;">This text is red!</p>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
