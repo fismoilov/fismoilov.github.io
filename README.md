@@ -1,6 +1,6 @@
-<p style="color:blue;"> ## Ismoilov Farrukh  !</p>
+<p style="color:blue;"> Ismoilov Farrukh  !</p>
 
-<p style="color:blue;"><strong>Ismoilov Farrukh!</strong></p>
+
 
 
 
