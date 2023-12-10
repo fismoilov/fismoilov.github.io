@@ -1,4 +1,4 @@
-<p style="color:blue;"> Ismoilov Farrukh  !</p>
+
 
 
 
